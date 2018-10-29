@@ -2,8 +2,7 @@
 //  main.cpp
 //  sever_hanabi
 //
-//  Created by 王婕 on 2018/6/10.
-//  Copyright © 2018年 王婕. All rights reserved.
+//  Created by Chieh Wang on 2018/6/10.
 //
 
 //If using windows
